@@ -1,3 +1,2 @@
 # swift-gfm
-GitHub Flavoured Markdown in Swift
-Swift wrapper from Vapor around cmark-gfm
+Vapor wrapper around cmark modified to use cmark-gfm (for GitHub Flavored Markdown)
